@@ -28,7 +28,6 @@ To view the website, open the `index.html` file in a web browser.
 - [normalize.css](https://github.com/necolas/normalize.css/)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-- [Ever-up](https://www.ever-up.com/)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+Copyright [2023] [Hector Merejo]
