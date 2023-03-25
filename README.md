@@ -1,44 +1,34 @@
-# Portfolio Project: DavHec Portfolio Website
-This is a simple portfolio website created for a software developer named Hector Merejo. The website showcases his skills and projects to potential employers or clients. The website is designed with a responsive layout that adjusts to different screen sizes.
+# DavHec Portfolio Website
 
-Table of Contents
-Installation
-Technologies Used
-Features
-Demo
-License
+This is a responsive portfolio website created by DavHec. It features an introduction section, services section, about me section, and a project section.
 
-Technologies Used
-HTML5
-CSS3
-JavaScript
-jQuery
-Normalize.css (CSS reset)
-Font Awesome (icons)
-Google Fonts (fonts)
-Features
-The website consists of the following sections:
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- Google Fonts
+- Font Awesome Icons
 
-Navigation
-A fixed navigation bar that stays visible as the user scrolls.
-The navigation menu contains links to different sections of the website, which use anchor tags to scroll to the respective section.
-Introduction
-A full-screen section that displays the name and profession of the website owner.
-A large image of the website owner is displayed alongside the introduction.
-Services
-A section that lists the services provided by the website owner.
-Each service is displayed with a heading and a description.
-Projects
-A section that displays the projects completed by the website owner.
-Each project is displayed with a heading, description, and an image.
-About Me
-A section that provides information about the website owner.
-A brief introduction is provided followed by a longer description.
-Contact
-A section that provides contact information for the website owner.
-A contact form is also provided for users to send a message.
-Demo
-Here is a demo of the project: https://davhec-portfolio-website.netlify.app/
+## Screenshots
+Insert screenshots of the website here.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Features
+- Responsive design
+- Navigation bar
+- Hamburger menu
+- Buttons that change opacity and shape
+- Buttons that display different messages
+- Project section with links to projects
+
+## Usage
+To view the website, open the `index.html` file in a web browser.
+
+## Credits
+- [normalize.css](https://github.com/necolas/normalize.css/)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Ever-up](https://www.ever-up.com/)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
