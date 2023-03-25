@@ -11,7 +11,9 @@ This is a responsive portfolio website created by Hector Merejo. It features an 
 - Font Awesome Icons
 
 ## Screenshots
-![DevHec Portfolio 2]([image_path](https://github.com/HectorMerejo/DevHec-Portfolio/blob/281e372cb5effe8728131ed1cc0c9f98a871e25e/DevHec%20Portfolio%201.png) "DevHec Screenshot1")
+
+<img src="https://github.com/HectorMerejo/DevHec-Portfolio/blob/281e372cb5effe8728131ed1cc0c9f98a871e25e/DevHec%20Portfolio%201.png" alt="DevHec Screenshot1" width="300px">
+
 
 ![DevHec Portfolio 2](image/path.png)
 
