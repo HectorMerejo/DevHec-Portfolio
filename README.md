@@ -1,6 +1,6 @@
 # DavHec Portfolio Website
 
-This is a responsive portfolio website created by DavHec. It features an introduction section, services section, about me section, and a project section.
+This is a responsive portfolio website created by Hector Merejo. It features an introduction section, services section, about me section, and a project section.
 
 ## Technologies Used
 - HTML
@@ -11,7 +11,9 @@ This is a responsive portfolio website created by DavHec. It features an introdu
 - Font Awesome Icons
 
 ## Screenshots
-Insert screenshots of the website here.
+![DevHec Portfolio 1](image/path.png)
+![DevHec Portfolio 2](image/path.png)
+
 
 ## Features
 - Responsive design
